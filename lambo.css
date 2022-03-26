@@ -1,0 +1,233 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}body{
+    margin: 0;
+    font-family:  Roboto,Helvetica Neue,Arial;
+}.body1{
+    width: 100%;
+    height: 475px;
+}.im{
+    width: 100%;
+}.body2{
+    width: 100%;
+    height: 720px;
+}.im1{
+    padding-left: 108px;
+    width: 1056px;
+    padding-top: 190px;
+}.body3{
+    background: linear-gradient(rgb(236, 10, 217),#0431c2);
+    width: 100%;
+    height: 425px;
+}.tex{
+    text-align: center;
+   padding-top: 200px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bolder;
+}.body4{
+    width: 100%;
+    height: 530px;
+    
+}.tex2{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 40px;
+}.s1{
+    width: 90%;
+    height: 80px;
+    margin-left: 58px;
+    padding-left: 27px;
+    border: transparent;
+    font-weight: bolder;
+    font-size: 17px;
+    cursor: pointer;
+}.s2{
+    width: 90%;
+    height: 80px;
+    margin-left: 58px;
+    padding-left: 27px;
+    border: transparent;
+    font-weight: bolder;
+    font-size: 17px;
+    cursor: pointer;
+}.s3{
+    width: 90%;
+    height: 80px;
+    margin-left: 58px;
+    padding-left: 27px;
+    border: transparent;
+    font-weight: bolder;
+    font-size: 17px;
+    cursor: pointer;
+}.s4{
+    width: 90%;
+    height: 80px;
+    margin-left: 58px;
+    padding-left: 27px;
+    border: transparent;
+    font-weight: bolder;
+    font-size: 17px;
+    cursor: pointer;
+
+}
+.s1:hover{
+    background-color: #aeb1b9;
+
+}.s2:hover{
+    background-color: #aeb1b9;
+
+}.s3:hover{
+    background-color: #aeb1b9;
+
+}.s4:hover{
+    background-color: #aeb1b9;
+
+}.body5{
+    width: 100%;
+    height: 380px;
+}.im2{
+    width: 100%;
+    
+}.footer{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+}
+.im3{
+    padding-left: 60px;
+    padding-top: 90px;
+    width: 130px;
+
+}.c1{
+    width: 20%;
+    height: 300px; float: left;    padding-top: 70px
+
+}.c2{
+    width: 15%;
+    height: 300px; float: left;    padding-top: 160px
+}.cop{
+    color: #aeb1b9;
+    cursor: pointer;
+}.c3{
+    width: 15%;
+    height: 300px; float: left;    padding-top: 160px
+}.c4{
+    width: 15%;
+    height: 300px; float: left;    padding-top: 160px
+}.para{
+    color: #fff;
+    cursor: pointer;
+
+}.c5{ width: 25%;
+    height: 300px; float: right;    padding-top: 160px
+    
+}.para:hover{
+    color: chartreuse;
+    
+}.im4{
+    width: 180px;
+    padding-left: 66px;
+}.c6{
+    width: 50%;
+    height: 100px;
+    float: left;
+    margin-top: 40px;
+    
+}.codd{
+    color: #aeb1b9;
+    padding-left: 50px;
+    float: left;
+    cursor: pointer;
+}.c7{
+    width: 40%;
+    height: 100px;
+    float: right;
+    margin-top: 40px;
+    
+
+}.coddd{
+    color: #aeb1b9;    
+    padding-left: 340px;
+    cursor: pointer;
+    
+}.codd:hover{
+    color: chartreuse;
+}.coddd:hover{
+    color: chartreuse;
+
+}.im5{
+    width: 136px;
+    padding-top: 16px;
+    padding-left: 58px;
+
+}.d1{
+    width: 45%;
+    margin: 0%;
+    float: right;
+    height: 80px;
+
+}.slo{
+    padding-top: 11px;
+    color: #fff;
+    font-weight: bold;
+    float: left;
+    padding-left: 35px;
+    cursor: pointer;
+}.slomo{
+    padding-top: 11px;
+    color:#aeb1b9; 
+    font-weight: bold;
+    float: left;
+    padding-left: 35px;
+    cursor: pointer;
+
+}.slomo:hover{
+    color: chartreuse;
+}.slo:hover{
+    color: chartreuse;
+}.butt{
+    position: absolute;
+    border-color: transparent;
+    border-radius: 23px;
+    top: 440px;
+    left: 509px;
+   
+    width: 186px;
+    height: 47px;
+    background-color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+
+}.butt:hover{
+    width: 200px;
+    height: 52px;
+    cursor: pointer;
+    top: 437px;
+    left: 506px ;
+
+}.butt1{
+    position: absolute;
+    border-color: transparent;
+    border-radius: 23px;
+    top: 2585px;
+    left: 539px;
+   
+    width: 186px;
+    height: 47px;
+    background-color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+
+}.butt1:hover{
+    width: 200px;
+    height: 52px;
+    cursor: pointer;
+    top: 2582px;
+    left: 535px ;
+
+}
